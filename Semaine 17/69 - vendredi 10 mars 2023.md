@@ -1,0 +1,3 @@
+- Ajout d'un système de validation des champs utilisateur FAIT
+- Ajout du bouton de suppression à la route entrante
+- Ajout d'une fenêtre en cas d'erreur de sauvegarde

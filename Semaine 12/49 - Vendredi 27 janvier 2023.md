@@ -1,0 +1,1 @@
+Aucune entrée dans le journal à ce jour.
